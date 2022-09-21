@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/julianYaman/bitcoin-clicker/blob/master/images/money.png.JPG?raw=true" width=200 />
+    <img src="https://github.com/julianYaman/bitcoin-clicker/blob/master/images/pngwing.com.png?raw=true" width=200 />
 </p>
 
 <h1 align="center"> Store Clicker </h1>
