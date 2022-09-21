@@ -1,15 +1,15 @@
 <p align="center">
-    <img src="https://github.com/julianYaman/bitcoin-clicker/blob/master/images/Money.PNG?raw=true" width=200 />
+    <img src="https://github.com/TypicalLabb/clickersir/blob/master/images/Money.PNG?raw=true" width=200 />
 </p>
 
 <h1 align="center"> Store Clicker </h1>
-<h2 align="center"><a href="https://julianyaman.github.io/bitcoin-clicker/index.html" target="_blank">Play now!</a></h2>
+<h2 align="center"><a href="" target="_blank">Play now!</a></h2>
 
-**Currently, there is no active development on this game. If you are interested in contributing to it and give it a nice revamp, please contact me on [Discord](https://discord.com/invite/ccpgH3b) or [Twitter](https://twitter.com/julianYaman).**
+**Currently, there is no active development on this game. If you are interested in contributing to it and give it a nice revamp, please conz).**
 
 This repository contains the source code of the game **Store Clicker**.
 
-## Changelog - [here](https://github.com/julianYaman/bitcoin-clicker/blob/master/CHANGELOG.md)
+
 
 ## Contributing
 
