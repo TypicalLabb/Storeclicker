@@ -27,9 +27,8 @@ I recommand that you follow this order:
 
 There are following things planned for future updates:
 
-- Revise the item price system (higher prices, better Bitcoin/second rate)
-- Better code structure
-- Better looking design for the item menu
-- (**BIG**) Special items with the ability to give some bonus.
+- More items to buy (to make the game NOT dead)
+- Upgrades
+- A discord for the game
+- 2nd Game?
 
-If you have any other suggestion, just write an issue with your ideas.
