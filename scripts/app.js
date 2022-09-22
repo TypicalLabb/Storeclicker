@@ -444,7 +444,7 @@ $(document).ready(function () {
   $(".cash").click(function () {
 
     // Add 1^-8 cash (equal to 1 people)
-    cash = cash + 0.00000001
+    cash = cash + 1
 
     // Show the new number on the page
     if(cash > 1000000){
