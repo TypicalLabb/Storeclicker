@@ -1,5 +1,5 @@
 var cash = 0
-var cashRate = 0
+var cashRate = 1
 
 // Every item in the game
 // TODO: items should be part of the Game variable
