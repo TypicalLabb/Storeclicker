@@ -96,7 +96,7 @@ if(localStorage.getItem("cash") === null){
 }else{
 
   // Get the amount of Bitcoins and parse them to a float number
-  cash = parseFloat(localStorage.getItem("bitcoins"))
+  cash = parseFloat(localStorage.getItem("cash"))
 
   $(".cashAmount").text("loading...")
   $(".peopleAmount").text("loading...")
